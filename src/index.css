@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.Bright{
+  width: 50%;
+  height: 52em;
+  /* background-color: rgb(241, 157, 157);
+  color: black; */
+  background-image: url(9780199409310.jpg);
+}
+.Dark{
+  width: 50%;
+  height: 200px;
+  background-image: url(6417111_sd.jpg);
+}
+
+#bground{
+  width: 50%;
+  height: 52em;
+  text-align: center;
+  margin-left: 50%;
+  /* border: 1px solid red; */
+}
+
+#text{
+   padding-top: 20%;
+   font-size: 70px;
+}
+/* .main{
+  border :1px solid red;
+  width: 30%;
+  height: 87s0px;
+
+} */
